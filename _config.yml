@@ -1,1 +1,10 @@
-theme: jekyll-theme-minimal
+permalink: /posts/:title
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
+
+name: Spextrum
+url: https://spextrum.github.io
+description: Spextrum- Gender. Identity. Sexuality
+twitter: @spextrum
